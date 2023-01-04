@@ -137,5 +137,8 @@
 // const saludar = (nombre) => { return "Hola mi nombre es " + nombre}
 // alert(saludar("Juan"))
 
-const saludar = nombre => "Hola mi nombre es " + nombre
-alert(saludar("Juan"))
+// const saludar = nombre => "Hola mi nombre es " + nombre
+// alert(saludar("Juan"))
+
+// const suma = (n1, n2) => n1 + n2
+// console.log(suma(40,50))
