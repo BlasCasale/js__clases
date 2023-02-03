@@ -104,3 +104,4 @@ let dato = document.getElementById('dato')
 // const { nombre, edad, mail, telefono:{cel:{claro,movistar}} } = usuario2
 
 // dato.innerHTML = `El nombre del usuario es ${nombre} y el telefono es ${claro}`
+
